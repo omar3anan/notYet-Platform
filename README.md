@@ -34,7 +34,7 @@
     <section class="getting-started">
         <h2>Getting Started</h2>
         <ol>
-            <li>Clone the repository from <a href="Repo Link">Repo Link</a></li>
+            <li>Clone the repository from <a href="https://github.com/omar3anan/notYet-Platform">Repo Link</a></li>
             <li>Install required dependencies using npm or yarn.</li>
             <li>Set up MongoDB and configure the database connection.</li>
             <li>Launch the server using Node.js and start the React.js front-end.</li>
