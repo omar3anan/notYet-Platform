@@ -1,4 +1,4 @@
-# !YET - Your Competitive Programming Assistant
+# !YET - Your Competitive Programming Assistant.
 
 !YET (short for "Yet Another Competitive Programming Platform") is a dynamic online platform designed to assist students in honing their competitive programming and problem-solving skills. It offers a range of features to enhance learning and foster a supportive environment for aspiring programmers.
 
