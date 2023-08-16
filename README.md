@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>!YET - Your Competitive Programming Assistant</title>
+    
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -47,7 +47,6 @@
         <p>We welcome contributions from the open-source community to make !YET even better. If you find any issues or have ideas for improvements, please feel free to submit a pull request or open an issue on our <a href="https://github.com/omar3anan/notYet-Platform">GitHub repository</a>.</p>
     </section>
     <footer>
-        <p>!YET is released under the MIT License. See the <a href="LICENSE Link">LICENSE file</a> for details.</p>
         <p>Happy Coding with !YET! Together, we'll unlock the potential of competitive programming and problem-solving! 🚀🌟</p>
     </footer>
 </body>
